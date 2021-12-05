@@ -78,7 +78,7 @@ const [walletAddress, setWalletAddress] = useState(null);
       <div className="container">
         <div className="header-container">
           <p className="header">🦄 Pam Learning Drop</p>
-          <p className="sub-text">NFT drop machine with fair mint</p>
+          <p className="sub-text">NFT drop machine, capture the first moments of a startup</p>
           {!walletAddress && renderNotConnectedContainer()}
         </div>
         {/* Check for walletAddress and then pass in walletAddress */}
