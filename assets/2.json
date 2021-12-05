@@ -1,0 +1,23 @@
+{
+    "name": "First Logo",
+    "symbol": "",
+    "image": "2.png",
+    "collection": {
+        "name": "Pam Learning #Year 1",
+        "family": "Pam Learning"
+     },
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FtqMzoVyXGVGhHJVrg7LWtjtvWgmKdmJv9AZYUJnRbPn",
+          "share": 100
+        }
+      ]
+    }
+  }
